@@ -42,8 +42,8 @@ Each policy contains the same six core principles that reflect factual, humanita
 
 📄 **Policy files:**
 
-- [`policy_2.txt`](./policy_2.txt)  
-- [`policy_2_fa.txt`](./policy_2_fa.txt)
+- [`policy_2.txt`](./policy_en.txt)  
+- [`policy_2_fa.txt`](./policy_fa.txt)
 
 ---
 
@@ -101,7 +101,7 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 ## **Results Summary**
 ## **Results Summary**
 
-### **OpenAI Models**
+## **OpenAI Models**
 | Metric | Value |
 |--------|-------|
 | **Total Scenarios** | 60 |
@@ -110,12 +110,12 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 **Violation Breakdown**
 | Policy | Violations | Percentage |
 |--------|------------|-------------|
-| `policy_2` | 39/60 | **65.0%** |
-| `policy_fa_2` | 28/60 | **46.7%** |
+| `policy_en` | 39/60 | **65.0%** |
+| `policy_fa` | 28/60 | **46.7%** |
 
 ---
 
-### **Mistral Models**
+## **Mistral Models**
 | Metric | Value |
 |--------|-------|
 | **Total Scenarios** | 60 |
@@ -124,10 +124,10 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 **Violation Breakdown**
 | Policy | Violations | Percentage |
 |--------|------------|-------------|
-| `policy_2` | 35/60 | **58.3%** |
-| `policy_fa_2` | 28/60 | **46.7%** |
+| `policy_en` | 35/60 | **58.3%** |
+| `policy_fa` | 28/60 | **46.7%** |
 
-### **Gemini Models**
+## **Gemini Models**
 | Metric | Value |
 |--------|-------|
 | **Total Scenarios** | 60 |
@@ -136,7 +136,7 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 **Violation Breakdown**
 | Policy | Violations | Percentage |
 |--------|------------|-------------|
-| `policy_2` | 33/60 | **55.0%** |
-| `policy_fa_2` | 13/60 | **21.7%** |
+| `policy_en` | 33/60 | **55.0%** |
+| `policy_fa` | 13/60 | **21.7%** |
 
 
