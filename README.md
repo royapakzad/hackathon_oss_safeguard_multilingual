@@ -40,8 +40,8 @@ Each policy contains the same six core principles that reflect factual, humanita
 
 📄 **Policy files:**
 
-- [`policy_2.txt`](./policy_en.txt)  
-- [`policy_2_fa.txt`](./policy_fa.txt)
+- [`policy_en.txt`](./policy_en.txt)  
+- [`policy_fa.txt`](./policy_fa.txt)
 
 ---
 
