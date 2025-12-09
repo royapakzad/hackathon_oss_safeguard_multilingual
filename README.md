@@ -99,12 +99,11 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 ---
 
 ## **Results Summary**
+| **Total Scenarios** | 60 |
+| **Total Policy Evaluations** | 120 |
 
 ## **OpenAI Models**
 
-|--------|-------|
-| **Total Scenarios** | 60 |
-| **Total Policy Evaluations** | 120 |
 
 **Violation Breakdown**
 | Policy | Violations | Percentage |
@@ -115,9 +114,7 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 ---
 
 ## **Mistral Models**
-|--------|-------|
-| **Total Scenarios** | 60 |
-| **Total Policy Evaluations** | 120 |
+
 
 **Violation Breakdown**
 | Policy | Violations | Percentage |
@@ -127,9 +124,7 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 
 ## **Gemini Models**
 
-|--------|-------|
-| **Total Scenarios** | 60 |
-| **Total Policy Evaluations** | 120 |
+
 
 **Violation Breakdown**
 | Policy | Violations | Percentage |
