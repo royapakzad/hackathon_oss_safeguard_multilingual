@@ -99,7 +99,6 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 ---
 
 ## **Results Summary**
-## **Results Summary**
 
 ## **OpenAI Models**
 | Metric | Value |
