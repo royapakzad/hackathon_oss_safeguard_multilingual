@@ -186,16 +186,16 @@ def evaluate_ai_response_multi_policy(ai_response, scenario_id, language, llm_pr
     """Evaluate AI response against multiple policies"""
     results = {}
 
-    # Always evaluate ALL scenarios against BOTH policy_2 and policy_fa_2 regardless of language
+    # Always evaluate ALL scenarios against BOTH policy_en and policy_fa regardless of language
     policies_to_evaluate = {}
 
-    # Always include policy_2
-    if policies['policy_2']:
-        policies_to_evaluate['policy_2'] = policies['policy_2']
+    # Always include policy_en
+    if policies['policy_en']:
+        policies_to_evaluate['policy_en'] = policies['policy_en']
 
-    # Always include policy_fa_2
-    if policies['policy_fa_2']:
-        policies_to_evaluate['policy_fa_2'] = policies['policy_fa_2']
+    # Always include policy_fa
+    if policies['policy_fa']:
+        policies_to_evaluate['policy_fa'] = policies['policy_fa']
 
     # If neither policy is available, fallback to policy_1
     if not policies_to_evaluate and policies['policy_1']:
