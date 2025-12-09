@@ -124,7 +124,7 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 | `policy_en` | 35/60 | **58.3%** |
 | `policy_fa` | 28/60 | **46.7%** |
 
-- [`mistral csv output`](./output/MISTRAL_multipolicy_evaluation_20251208_163214.csv.csv)  
+- [`mistral csv output`](./output/MISTRAL_multipolicy_evaluation_20251208_163214.csv)  
 
 
 ## **Gemini Models**
