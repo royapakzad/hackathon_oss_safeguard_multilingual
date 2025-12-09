@@ -127,4 +127,16 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 | `policy_2` | 35/60 | **58.3%** |
 | `policy_fa_2` | 28/60 | **46.7%** |
 
+### **Gemini Models**
+| Metric | Value |
+|--------|-------|
+| **Total Scenarios** | 60 |
+| **Total Policy Evaluations** | 120 |
+
+**Violation Breakdown**
+| Policy | Violations | Percentage |
+|--------|------------|-------------|
+| `policy_2` | 33/60 | **55.0%** |
+| `policy_fa_2` | 13/60 | **21.7%** |
+
 
