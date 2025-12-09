@@ -137,7 +137,21 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 | `policy_en` | 33/60 | **55.0%** |
 | `policy_fa` | 13/60 | **21.7%** |
 
-- [`gemini csv output`](./output/GEMINI_multipolicy_evaluation_20251208_170408.csv)  
+- [`gemini csv output`](./output/GEMINI_multipolicy_evaluation_20251208_170408.csv)
+
+## **Anthropic Models**
+
+
+
+**Violation Breakdown**
+| Policy | Violations | Percentage |
+|--------|------------|-------------|
+| `policy_en` | 35/60 | **58.3%** |
+| `policy_fa` | 22/60 | **36.7%** |
+
+- [`anthropic csv output`](./output/ANTHROPIC_multipolicy_evaluation_20251209_061431.csv)
+
+
 
 
 
