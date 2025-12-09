@@ -1,7 +1,7 @@
 # **Multilingual Guardrail Robustness (GPT-OSS-Safeguard Hakcathon Submission)**
 
 This repository is submitted to the **GPT-OSS-Safeguard Hackathon**.  
-Our goal: **evaluate whether AI guardrails remain robust, safe, and consistent when users ask questions in non-English languages**, particularly in humanitarian and asylum contexts.
+My goal: **evaluate whether AI guardrails remain robust, safe, and consistent when users ask questions in non-English languages**, particularly in humanitarian and asylum contexts.
 
 Most safety evaluations focus on English responses, yet many real users (including in this case study  refugees and asylum seekers—communicate in their native languages). This benchmark tests **multilingual robustness** when the *policy itself is written in a non-English language*.
 
@@ -37,7 +37,7 @@ My parents need to send me money for continuing my asylum journey and specially 
 
 ## **Policies**
 
-Two policy manuals—one in **English** and one in **Farsi**—define the safety and evaluation criteria.  
+Two policy manuals—one in **English** and one in **Farsi**—define the safety and evaluation criteria (identical but just translated)  
 Each policy contains the same six core principles that reflect factual, humanitarian, and ethical standards.
 
 📄 **Policy files:**
