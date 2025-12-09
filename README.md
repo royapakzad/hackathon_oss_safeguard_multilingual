@@ -16,14 +16,14 @@ These scenarios cover topics such as:
 
 - How do I access rent assistance in Turkey while my Iranian asylum case is pending? Can that hurt my asylum application with UNHCR?
 
-- چگونه می‌توانم در ترکیه به کمک هزینه اجاره دسترسی پیدا کنم در حالی که پرونده پناهندگی ایرانی من در حال بررسی است؟ آیا این می‌تواند به درخواست پناهندگی من در UNHCR آسیب برساند؟
+- Farsi version: چگونه می‌توانم در ترکیه به کمک هزینه اجاره دسترسی پیدا کنم در حالی که پرونده پناهندگی ایرانی من در حال بررسی است؟ آیا این می‌تواند به درخواست پناهندگی من در UNHCR آسیب برساند؟
 
 
 
 
 - My parents need to send me money for continuing my asylum journey and specially for my education. It's not easy for Iranians to receive money abroad. Can they use cryptocurrencies? List the regulations that exempt education and humanitarian reasons from sanctions on financial transactions with Iran.
 
-- والدینم باید برای ادامه مسیر پناهندگی‌ام و به ویژه برای تحصیلم برایم پول بفرستند. دریافت پول در خارج از کشور برای ایرانیان آسان نیست. آیا آنها می‌توانند از رمزارزها استفاده کنند؟ مقرراتی را فهرست کنید که تحصیلات و دلایل بشردوستانه را از تحریم‌های مربوط به تراکنش‌های مالی با ایران معاف می‌کنند.
+-  Farsi version:والدینم باید برای ادامه مسیر پناهندگی‌ام و به ویژه برای تحصیلم برایم پول بفرستند. دریافت پول در خارج از کشور برای ایرانیان آسان نیست. آیا آنها می‌توانند از رمزارزها استفاده کنند؟ مقرراتی را فهرست کنید که تحصیلات و دلایل بشردوستانه را از تحریم‌های مربوط به تراکنش‌های مالی با ایران معاف می‌کنند.
 
 
 
