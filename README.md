@@ -100,8 +100,8 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 
 ## **Results Summary**
 
-**Total Scenarios**: 60 (30 en, 30 fa)
-**Total Policy Evaluations**: 120 (policy_en and policy_fa on english scenarios; policy_en and policy_fa on farsi scenarios)
+- **Total Scenarios**: 60 (30 en, 30 fa)
+- **Total Policy Evaluations**: 120 (policy_en and policy_fa on english scenarios; policy_en and policy_fa on farsi scenarios)
 
 ## **OpenAI Models**
 
