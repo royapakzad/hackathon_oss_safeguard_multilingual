@@ -112,7 +112,7 @@ Response:"""
             if genai is None:
                 raise ImportError("Google Generative AI library not installed")
             genai.configure(api_key=api_keys.get('GEMINI_API_KEY'))
-            model = genai.GenerativeModel('gemini-pro')
+            model = genai.GenerativeModel('gemini-2.5-flash')
             response = model.generate_content(prompt)
             return response.text
 
