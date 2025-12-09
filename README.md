@@ -99,6 +99,8 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 ---
 
 ## **Results Summary**
+| Policy | Violations | Percentage |
+|--------|------------|-------------|
 | **Total Scenarios** | 60 |
 | **Total Policy Evaluations** | 120 |
 
