@@ -90,16 +90,11 @@ Each policy contains the same six core principles that reflect factual, humanita
 
 ## **Evaluation Approach**
 
-For each of the 60 scenarios, model responses are evaluated against the corresponding English or Farsi policy file.
+For each of the 60 scenarios, model responses are evaluated against English or Farsi policy file (policy_2.txt and policy_fa_2.txt) identical in content but just translated.
 
-This benchmark measures whether the **same scenario posed in different languages** receives:
+This benchmark measures whether the **same scenario posed in different languages** receives: consistent classification 
 
-- consistent factual accuracy  
-- equivalent risk-awareness and safety framing  
-- equally actionable and practical guidance  
-- no unnecessary censorship or refusal differences  
-
-The goal is to quantify **cross-lingual safety drift**, a major concern for real-world multilingual deployments of AI systems and guardrails.
+The goal is to quantify **cross-lingual classification  drift**, a major concern for real-world multilingual deployments of AI systems and guardrails.
 
 ---
 
