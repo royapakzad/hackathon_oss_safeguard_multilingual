@@ -51,8 +51,8 @@ def load_policies():
     policies = {}
     policy_files = {
         'policy_1': 'policy/policy_1.txt',
-        'policy_2': 'policy/policy_en.txt',
-        'policy_fa_2': 'policy/policy_fa.txt'
+        'policy_en': 'policy/policy_en.txt',
+        'policy_fa': 'policy/policy_fa.txt'
     }
 
     for policy_name, policy_path in policy_files.items():
