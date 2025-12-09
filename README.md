@@ -111,6 +111,8 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 | `policy_en` | 39/60 | **65.0%** |
 | `policy_fa` | 28/60 | **46.7%** |
 
+- [`openai csv output`](./output/OPENAI_multipolicy_evaluation_20251208_162331.csv)  
+
 ---
 
 ## **Mistral Models**
@@ -122,6 +124,9 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 | `policy_en` | 35/60 | **58.3%** |
 | `policy_fa` | 28/60 | **46.7%** |
 
+- [`mistral csv output`](./output/MISTRAL_multipolicy_evaluation_20251208_163214.csv.csv)  
+
+
 ## **Gemini Models**
 
 
@@ -131,5 +136,8 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 |--------|------------|-------------|
 | `policy_en` | 33/60 | **55.0%** |
 | `policy_fa` | 13/60 | **21.7%** |
+
+- [`gemini csv output`](./output/GEMINI_multipolicy_evaluation_20251208_170408.csv)  
+
 
 
