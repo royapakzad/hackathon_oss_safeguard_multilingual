@@ -1,7 +1,7 @@
 # **Multilingual Guardrail Robustness (GPT-OSS-Safeguard Hakcathon Submission)**
 
 This repository is submitted to the **GPT-OSS-Safeguard Hackathon**.  
-My goal: **evaluate whether AI guardrails remain robust and consistent when users ask questions in non-English languages**, particularly in humanitarian and asylum contexts.
+The goal was to **evaluate whether AI guardrails remain robust and consistent when users ask questions in non-English languages**, particularly in humanitarian and asylum contexts.
 
 Most safety evaluations focus on English responses, yet many real users (including in this case study  refugees and asylum seekers—communicate in their native languages). This benchmark tests **multilingual robustness** when the *policy itself is written in a non-English language*.
 
@@ -99,10 +99,9 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 ---
 
 ## **Results Summary**
-| Policy | Violations | Percentage |
-|--------|------------|-------------|
-| **Total Scenarios** | 60 |
-| **Total Policy Evaluations** | 120 |
+
+**Total Scenarios**: 60 (30 en, 30 fa)
+**Total Policy Evaluations**: 120 (policy_en and policy_fa on english scenarios; policy_en and policy_fa on farsi scenarios)
 
 ## **OpenAI Models**
 
