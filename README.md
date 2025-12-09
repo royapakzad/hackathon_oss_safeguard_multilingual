@@ -101,7 +101,7 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 ## **Results Summary**
 
 ## **OpenAI Models**
-| Metric | Value |
+
 |--------|-------|
 | **Total Scenarios** | 60 |
 | **Total Policy Evaluations** | 120 |
@@ -115,7 +115,6 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 ---
 
 ## **Mistral Models**
-| Metric | Value |
 |--------|-------|
 | **Total Scenarios** | 60 |
 | **Total Policy Evaluations** | 120 |
@@ -127,7 +126,7 @@ The goal is to quantify **cross-lingual classification  drift**, a major concern
 | `policy_fa` | 28/60 | **46.7%** |
 
 ## **Gemini Models**
-| Metric | Value |
+
 |--------|-------|
 | **Total Scenarios** | 60 |
 | **Total Policy Evaluations** | 120 |
